@@ -1,4 +1,7 @@
 # es_extended
+
+## Réupload - 🐌 Discord FiveM Leaks & Dev: https://dsc.gg/fivem-fr/
+
 es_extended is a roleplay framework for FiveM. It is developed on top of [EssentialMode](https://essentialmode.com/) (aka ES), thus commonly named ESX - the **Es**sentialMode E**x**tended framework for FiveM.
 
 ### Links & Read more
